@@ -1,0 +1,23 @@
+
+table, th, tr, td{
+    border: 1px solid black;
+}
+.comment_name{
+    font-weight: bold;
+}
+.timestamp{
+    float: right;
+}
+form, button{
+    display: block;
+}
+.message_box{
+    font-weight: bold;
+    margin: 5px;
+}
+#message_form{
+    margin-bottom: 10px;
+}
+.comment_form{
+    margin-bottom: 10px;
+}
